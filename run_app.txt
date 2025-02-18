@@ -1,0 +1,6 @@
+Running the Website:
+To launch the website, open the Command Prompt in the Laptop Price Prediction project directory and run the following command:
+
+'streamlit run app.py'
+
+Press Enter, and the application will start in your web browser.streamlit run app.py
